@@ -2,11 +2,11 @@
     font: 400 15px Lato, sans-serif;
     line-height: 1.8;
     color: #818181;
-  .thumbnail a{
+  a{
   color: White;
   background-color: Black;
   }
-  .thumbnail a:hover{
+  a:hover{
     background-color: Green;
     color: red;
   }
