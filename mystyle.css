@@ -171,6 +171,10 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+.item{
+  border-style="solid";
+  border-color="red";
+}
 
   @keyframes slide {
     0% {
