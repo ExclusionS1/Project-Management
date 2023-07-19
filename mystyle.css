@@ -172,8 +172,10 @@
     background-position: center;
 }
 .picture{
-  border-style="solid";
-  border-color="red";
+  border-radius: 25px;
+  border: 3px solid #9900cc;
+  padding: 20px;
+  width: 70%;
 }
 
   @keyframes slide {
