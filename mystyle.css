@@ -201,7 +201,7 @@
     background-color: white;
   }
   .navbar-nav li a:hover, .navbar-nav li.active a {
-    color: black !important;
+    color: red !important;
     background-color: #fff !important;
   }
   .navbar-default .navbar-toggle {
