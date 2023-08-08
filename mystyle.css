@@ -16,17 +16,15 @@
     color:lime;
     font-weight: bold;
   }
-  .bg-grey.h2.h4 {
-    font-size: 24px;
-    text-transform: uppercase;
-    color: white;
-    font-weight: 600;
-    margin-bottom: 30px;
+  #services h2:hover, #services h4:hover{
+    color:black;
+    background-color: white;    
   }
-  .container-fluid.h2:hover .h4:hover {
-    color: white;
-    background-color: black;
+  #portfolio h2:hover, #portfolio h4:hover,#pricing  h2:hover,#pricing h4:hover{
+    color:white;
+    background-color: black;    
   }
+
   .container-fluid.h4 {
     font-size: 19px;
     line-height: 1.375em;
@@ -54,10 +52,6 @@
   .bg-grey {
     background-color: black;
     color: white;
-  }
-  .bg-greyhover {
-    background-color: white;
-    color: black;
   }
   #services .col-sm-4 {
     padding: 60px 50px;
